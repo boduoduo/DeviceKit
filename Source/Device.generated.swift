@@ -1305,7 +1305,7 @@ extension Device: CustomStringConvertible {
       case .iPhoneX: return "iPhone X"
       case .iPhoneXS: return "iPhone Xs"
       case .iPhoneXSMax: return "iPhone Xs Max"
-      case .iPhoneXR: return "iPhone Xʀ"
+      case .iPhoneXR: return "iPhone XR"
       case .iPhone11: return "iPhone 11"
       case .iPhone11Pro: return "iPhone 11 Pro"
       case .iPhone11ProMax: return "iPhone 11 Pro Max"
